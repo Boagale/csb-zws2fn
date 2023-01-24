@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://boagale.github.io/csb-zws2fn/static/js/main.bbedb53e.chunk.js",
+    "main.js.map": "https://boagale.github.io/csb-zws2fn/static/js/main.bbedb53e.chunk.js.map",
+    "runtime-main.js": "https://boagale.github.io/csb-zws2fn/static/js/runtime-main.257c4906.js",
+    "runtime-main.js.map": "https://boagale.github.io/csb-zws2fn/static/js/runtime-main.257c4906.js.map",
+    "static/js/2.30c1e4c9.chunk.js": "https://boagale.github.io/csb-zws2fn/static/js/2.30c1e4c9.chunk.js",
+    "static/js/2.30c1e4c9.chunk.js.map": "https://boagale.github.io/csb-zws2fn/static/js/2.30c1e4c9.chunk.js.map",
+    "index.html": "https://boagale.github.io/csb-zws2fn/index.html",
+    "precache-manifest.8eed62f42a7685ec5a7199f9ec2070d8.js": "https://boagale.github.io/csb-zws2fn/precache-manifest.8eed62f42a7685ec5a7199f9ec2070d8.js",
+    "service-worker.js": "https://boagale.github.io/csb-zws2fn/service-worker.js",
+    "static/js/2.30c1e4c9.chunk.js.LICENSE.txt": "https://boagale.github.io/csb-zws2fn/static/js/2.30c1e4c9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.257c4906.js",
+    "static/js/2.30c1e4c9.chunk.js",
+    "static/js/main.bbedb53e.chunk.js"
+  ]
+}
